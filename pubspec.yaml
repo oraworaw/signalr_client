@@ -16,7 +16,7 @@ dependencies:
   sse_channel: 
     git: https://github.com/oraworaw/sse_channel.git
   message_pack_dart: ^2.0.1
-  http: ^0.13.6
+  http: ^1.1.0
 
 dev_dependencies:
   test: ^1.16.2
